@@ -7,6 +7,7 @@ A simple and clean TrueNAS Core/Scale grafana dashboard based on prometheus
 
 3. Configure TrueNAS for pushing metrics to the graphite-exporter endpoint
 <br>
+
 ![](truenas-settings.png)
 
 4. Add a prometheus scrape task
@@ -22,9 +23,11 @@ A simple and clean TrueNAS Core/Scale grafana dashboard based on prometheus
 
 5. Import the dashboard
 <br>
+
 ![](truenas-dashboard-import.png)
 
 ## Screenshots
 <br>
+
 ![](truenas-dashboard.png)
 
